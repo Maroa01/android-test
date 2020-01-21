@@ -12,7 +12,9 @@ import android.view.View;
 import android.view.Menu;
 import android.view.MenuItem;
 
+
 public class MainActivity extends AppCompatActivity {
+    private int counter;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
